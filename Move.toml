@@ -1,0 +1,7 @@
+
+[package]
+name = "launch_token_core"
+version = "0.1.0"
+
+[addresses]
+launch = "0x0"
